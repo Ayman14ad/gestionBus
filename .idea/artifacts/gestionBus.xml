@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gestionBus">
+    <output-path>$PROJECT_DIR$/out/artifacts/gestionBus_war_exploded.war</output-path>
+    <root id="archive" name="gestionBus.war">
+      <element id="javaee-facet-resources" facet="gestionbus/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="gestionbus" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
